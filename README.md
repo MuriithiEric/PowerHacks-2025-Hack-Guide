@@ -76,25 +76,20 @@ Solutions engaging boys and men as allies—promoting respect, empathy, accounta
 
 Projects will be judged based on:
 
-### **Code Quality – 20%**  
-Clean, organized, readable, and correct code.
+### **Innovation and Creativity – 25%**  
+User centric innovation, originality and creativity of the solution
 
-### **Algorithm Efficiency – 20%**  
-Fast, optimized, and resource-efficient execution.
 
-### **Utilization of Technology Stack – 14%**  
-Effective use of modern technologies across relevant platforms.
-
-### **Security & Fault Tolerance – 12%**  
+### **Security & Fault Tolerance – 15%**  
 Strong data protection, error handling, and reliability.
 
-### **Performance – 16%**  
+### **Performance – 20%**  
 Smooth, responsive functionality with optimized resource usage.
 
-### **Development Process – 10%**  
+### **Development Process – 25%**  
 Teamwork, project management, communication, and collaboration.
 
-### **Documentation & Testing – 8%**  
+### **Documentation & Testing – 15%**  
 Clear explanations, structured documentation, and tested features.
 
 ---
