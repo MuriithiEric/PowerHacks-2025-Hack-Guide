@@ -121,7 +121,7 @@ We can’t wait to see what you create!
 ### 🔗 **Submit Your Project Here**  
 ### 🔗 **Pitch Deck Template:**  
 Use and customize the official template here:  
-**https://www.canva.com/design/DAGRQhOMgco/XCf6_pgCkP64KFCIlzNstw/edit**
+**https://www.canva.com/design/DAGTAHxtlGI/_miELy6k5PwaUuiFdz44mQ/edit?utm_content=DAGTAHxtlGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton**
 
 Make a copy and use it to guide your presentation.
 
