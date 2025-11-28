@@ -77,8 +77,7 @@ Solutions engaging boys and men as allies—promoting respect, empathy, accounta
 Projects will be judged based on:
 
 ### **Innovation and Creativity – 25%**  
-User centric innovation, originality and creativity of the solution
-
+User-centric innovation, originality and creativity of the solution.
 
 ### **Security & Fault Tolerance – 15%**  
 Strong data protection, error handling, and reliability.
@@ -110,15 +109,56 @@ Clear explanations, structured documentation, and tested features.
 Aligned with the **16 Days of Activism Against GBV**
 
 ### **Submission & Pitching**  
-Follow the instructions in the submission link below.
+Follow instructions via the submission link below.
 
 ---
 
-## **7. Submit Your Project**
+## **7. Code of Conduct – PLP Values in Action**
+
+To ensure a meaningful, safe, and empowering experience for all participants, **Power Hacks 2025** will be guided by the core **PLP Values**, which act as our official **Code of Conduct**.
+
+These values guide how we collaborate, communicate, and innovate throughout the hackathon:
+
+### 🔹 **Respect**  
+Treat everyone with dignity. Honor diverse perspectives, experiences, and backgrounds. All interactions—online and in person—must remain inclusive, supportive, and constructive.
+
+### 🔹 **Ownership**  
+Take initiative and responsibility for your learning, tasks, and deadlines.  
+You are expected to stay committed to your thematic area, attend all masterclasses, and contribute meaningfully to your team.
+
+### 🔹 **Excellence**  
+Give your best effort in every part of the hackathon.  
+Strive for thoughtful design, clean code, and impactful solutions that reflect intention and quality.
+
+### 🔹 **Integrity**  
+Act with honesty and transparency.  
+All work must be original or properly credited.  
+Your submission form must clearly state **who handled each component** (Frontend, Backend, UX/UI, Research, Data, etc.).
+
+---
+
+### **Participant Expectations**
+
+To maintain fairness, learning, and effective teamwork:
+
+- **Stick to your chosen thematic area** and ensure your final solution aligns with it.  
+- **Attend all masterclasses** — they are essential for your project’s quality and development.  
+- **Collaborate respectfully and effectively** with teammates.  
+- **Contribute actively**: Participants were selected based on their GitHub activity and commitment. Maintain that same level throughout.  
+- **Gender Inclusion**: Each team includes at least **one woman**, ensuring diverse perspectives and balanced teamwork.  
+- **Be accountable**: Document your individual contributions clearly during submission.
+
+By joining Power Hacks 2025, you agree to uphold these values and help build a safe, collaborative, and empowering hack community.
+
+---
+
+## **8. Submit Your Project**
 
 We can’t wait to see what you create!
 
 ### 🔗 **Submit Your Project Here**  
+**https://forms.gle/7EPnDV94drfij5Kn7**
+
 ### 🔗 **Pitch Deck Template:**  
 Use and customize the official template here:  
 **https://www.canva.com/design/DAGTAHxtlGI/_miELy6k5PwaUuiFdz44mQ/edit?utm_content=DAGTAHxtlGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton**
@@ -131,9 +171,7 @@ Make a copy and use it to guide your presentation.
 
 Power Hacks 2025 is your chance to turn ideas into real solutions that shape a safer future for our communities.
 
-Whether you’re a coder, designer, creative, or social impact champion — **your ideas matter**.
+Whether you’re a coder, designer, creative, or social-impact champion — **your ideas matter**.
 
 ### **Join us. Build safe. Build bold.  
 Let’s hack for justice. ✊🏿💡**
-
-
